@@ -9,7 +9,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" >
   <img align="center" alt="Rafa-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  <img align="center" alt="Rafa-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://live.staticflickr.com/65535/51548384277_fc12ec553f_c.jpg">
   
 </div>
 </div>
